@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "890835003053",
+    "project_id": "bosepo-2fb1a",
+    "storage_bucket": "bosepo-2fb1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890835003053:android:f8c8eb5763bd3cf9b20824",
+        "android_client_info": {
+          "package_name": "com.example.bosepo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890835003053-el35b3pkt69q3l023d5dbr212vjv1g6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk7Yctz0pl_Shlo2s2-VwoX3mpE0hYO1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890835003053-el35b3pkt69q3l023d5dbr212vjv1g6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890835003053:android:f82f8b12917991d9b20824",
+        "android_client_info": {
+          "package_name": "com.example.chat_ui_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890835003053-el35b3pkt69q3l023d5dbr212vjv1g6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk7Yctz0pl_Shlo2s2-VwoX3mpE0hYO1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890835003053-el35b3pkt69q3l023d5dbr212vjv1g6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
